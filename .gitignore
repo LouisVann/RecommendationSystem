@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+others/
+
+*.csv
+*.docx
+*.pdf
+*.zip
+
+item_similarity_matrix.txt
+user_similarity_matrix.txt

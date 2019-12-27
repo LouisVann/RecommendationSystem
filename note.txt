@@ -1,0 +1,13 @@
+>>> len = 97842
+>>> inum = 4124
+>>> unum = 2966
+>>> total = inum*unum
+>>> total
+12231784
+>>> len/total
+0.007998996712172158
+>>> len/total*100
+0.7998996712172157
+>>>
+
+最后的lab2要给出4个csv文件（分别对应userbased、itembased、PMF、自由发挥的），命名就out_1到out_4.csv
